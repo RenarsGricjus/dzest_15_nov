@@ -1,1 +1,1 @@
-70% no GIT un GitHub lietojuma saprotu
+80% no GIT un GitHub lietojuma saprotu
